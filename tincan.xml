@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">التربية الإسلامية</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6FKN1xisaMJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الغلاف</name>
+			<description lang="und">الغلاف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5pt8bCFEbeo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الصفحة الرئيسية</name>
+			<description lang="und">الصفحة الرئيسية</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5nWe0JTUc5v" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الوحدة الأولى</name>
+			<description lang="und">الوحدة الأولى</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5anKtj3PeNu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الوحدة الثانية</name>
+			<description lang="und">الوحدة الثانية</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/60wVvGs1z3H" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الوحدة الثالثة</name>
+			<description lang="und">الوحدة الثالثة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5n4pWopCtEy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الوحدة الرابعة</name>
+			<description lang="und">الوحدة الرابعة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6Onzv6b2i8a" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/698pcmf2tXG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - العقيدة</name>
+			<description lang="und">الدرس الأول - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6fdzxxfuk9T" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - القرآن</name>
+			<description lang="und">الدرس الأول - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/652FY0Nh8KW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الحديث الشريف</name>
+			<description lang="und">الدرس الأول - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6YuM8hM25Y5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - نشاط التلوين</name>
+			<description lang="und">الدرس الأول - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5WfU4XhwFtN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5WfU4XhwFtN/6F7fcLVaLdU" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6ACvTmvZAyH[.]choice_6DrcFZch4UI</correctResponsePattern>
+				<correctResponsePattern>statement_6c7jIYBegUF[.]choice_6iJgmwqGmSD</correctResponsePattern>
+				<correctResponsePattern>statement_6lpCfaGbnkF[.]choice_5viawxTaGPG</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6ACvTmvZAyH</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+				<component>
+					<id>statement_6c7jIYBegUF</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_6lpCfaGbnkF</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6DrcFZch4UI</id>
+					<description lang="und">water - match 5.png</description>
+				</component>
+				<component>
+					<id>choice_6iJgmwqGmSD</id>
+					<description lang="und">sky - match 2.png</description>
+				</component>
+				<component>
+					<id>choice_5viawxTaGPG</id>
+					<description lang="und">earth - match 6.png</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6SiSohRYPvl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - العقيدة</name>
+			<description lang="und">الدرس الثاني - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6m1e9D2FSfB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الفلق</name>
+			<description lang="und">الدرس الثاني - الفلق</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6IKDhWlblH5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الناس</name>
+			<description lang="und">الدرس الثاني - الناس</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6CTUfGkI2NG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الحديث الشريف</name>
+			<description lang="und">الدرس الثاني - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6HEuZSmx19N" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - نشاط التلوين</name>
+			<description lang="und">الدرس الثاني - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6HVZVzhU5Rn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6HVZVzhU5Rn/6bLk0HjiHZh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_663UunHdOGa[.]choice_69TEc8bSYKo</correctResponsePattern>
+				<correctResponsePattern>statement_6es5Mn4dnov[.]choice_5VwO9T7pAvP</correctResponsePattern>
+				<correctResponsePattern>statement_5u4op57nRuV[.]choice_6pgn7eignka</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_663UunHdOGa</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+				<component>
+					<id>statement_6es5Mn4dnov</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_5u4op57nRuV</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_69TEc8bSYKo</id>
+					<description lang="und">water - u1l2.4.png</description>
+				</component>
+				<component>
+					<id>choice_5VwO9T7pAvP</id>
+					<description lang="und">sky - u1l2.5.png</description>
+				</component>
+				<component>
+					<id>choice_6pgn7eignka</id>
+					<description lang="und">earth - u1l2.6.png</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6a6MsImHQLy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - العقيدة</name>
+			<description lang="und">الدرس الثالث - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6dG5HHTWqFc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - القرآن</name>
+			<description lang="und">الدرس الثالث - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6ZFo3iBrK6i" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الحديث الشريف</name>
+			<description lang="und">الدرس الثالث - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6RsItCuHypq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - نشاط التلوين</name>
+			<description lang="und">الدرس الثالث - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6hm8LqJ7w63" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6BQrKeXh7ti" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - العقيدة</name>
+			<description lang="und">الدرس الرابع - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5w56e8fLZvj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - القرآن</name>
+			<description lang="und">الدرس الرابع - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6hd0h345KNo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الحديث الشريف</name>
+			<description lang="und">الدرس الرابع - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6H97ZjJEZOp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - نشاط التلوين</name>
+			<description lang="und">الدرس الرابع - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/659jATx5Z8K" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/659jATx5Z8K/6LCLVw6gHNc" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6E9VjQvgjrI</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6E9VjQvgjrI</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_5oHul110r0Y</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5ib56p5madT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5ib56p5madT/6DNa8cl9ohs" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6n4qeuUAXNi</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6n4qeuUAXNi</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_6hwonHoPvnR</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5aaygq9fuGJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5aaygq9fuGJ/6llqV0QgcS1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5jRUacqWFAt</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6QGFdzQp3PX</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_5jRUacqWFAt</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5olpDINzJUj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - العقيدة</name>
+			<description lang="und">الدرس الأول - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6AiyXQeLMWO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - القرآن</name>
+			<description lang="und">الدرس الأول - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5mreUGtOKAk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الحديث الشريف</name>
+			<description lang="und">الدرس الأول - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6epp79c73Th" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6epp79c73Th/5znXJSl6tFh" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6bhWYTDyOso</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6bhWYTDyOso</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_6Ae6YmJl6gj</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5nES0mfJQh4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5nES0mfJQh4/6gvCVAJ9i7h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6qZNycdDGky</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qZNycdDGky</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_6SMXPHzxvr5</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6JgZVzHFT4o" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6JgZVzHFT4o/61qDoKDdzDK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_68jDT42cAoL</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_68jDT42cAoL</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_5zHeyuybzax</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5V1Mbr9yhFS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - العقيدة</name>
+			<description lang="und">الدرس الثاني - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6ahHJOnJwGx" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - القرآن</name>
+			<description lang="und">الدرس الثاني - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6mzdgwjxK7Z" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الحديث الشريف</name>
+			<description lang="und">الدرس الثاني - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5cvke6Q2zyY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5cvke6Q2zyY/6Zz2U4uHrgO" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5oLUjupDDYV[.]choice_6b2n82dPrGs</correctResponsePattern>
+				<correctResponsePattern>statement_5uLRFwT6ER8[.]choice_5ln9HbYylv4</correctResponsePattern>
+				<correctResponsePattern>statement_6B0kv6vlsZ8[.]choice_5i7cpCKlh5L</correctResponsePattern>
+				<correctResponsePattern>statement_63n3PDKljo6[.]choice_6Wf6YXBUP1i</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5oLUjupDDYV</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_5uLRFwT6ER8</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6B0kv6vlsZ8</id>
+					<description lang="und">Rectangle 7</description>
+				</component>
+				<component>
+					<id>statement_63n3PDKljo6</id>
+					<description lang="und">Rectangle 5</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6b2n82dPrGs</id>
+					<description lang="und">Group 2</description>
+				</component>
+				<component>
+					<id>choice_5ln9HbYylv4</id>
+					<description lang="und">Group 1</description>
+				</component>
+				<component>
+					<id>choice_5i7cpCKlh5L</id>
+					<description lang="und">Group 3</description>
+				</component>
+				<component>
+					<id>choice_6Wf6YXBUP1i</id>
+					<description lang="und">Group 4</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5wnHdPZrLwu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - العقيدة</name>
+			<description lang="und">الدرس الثالث - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6Skza8c0CEI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - القرآن</name>
+			<description lang="und">الدرس الثالث - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5d56F300Uc8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الحديث الشريف</name>
+			<description lang="und">الدرس الثالث - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5rjfq7lAg5w" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - نشاط التلوين</name>
+			<description lang="und">الدرس الثالث - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5wFE241ejyF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5wFE241ejyF/6qz647PmBl2" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6AXEAckFsiF[.]choice_6MUZqIB1W9f</correctResponsePattern>
+				<correctResponsePattern>statement_6JwX1ZDjDvz[.]choice_6oO8QRuHkqT</correctResponsePattern>
+				<correctResponsePattern>statement_6IV3i3xfoaY[.]choice_6oWvCDX1JxU</correctResponsePattern>
+				<correctResponsePattern>statement_6QujCfVq6VV[.]choice_6Cxps3CnQzv</correctResponsePattern>
+				<correctResponsePattern>statement_6Vf0iI3n4SG[.]choice_5l882TZJ3hH</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6AXEAckFsiF</id>
+					<description lang="und">Rectangle 11</description>
+				</component>
+				<component>
+					<id>statement_6JwX1ZDjDvz</id>
+					<description lang="und">Rectangle 12</description>
+				</component>
+				<component>
+					<id>statement_6IV3i3xfoaY</id>
+					<description lang="und">Rectangle 9</description>
+				</component>
+				<component>
+					<id>statement_6QujCfVq6VV</id>
+					<description lang="und">Rectangle 10</description>
+				</component>
+				<component>
+					<id>statement_6Vf0iI3n4SG</id>
+					<description lang="und">Rectangle 8</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6MUZqIB1W9f</id>
+					<description lang="und">Rectangle 1 - 1</description>
+				</component>
+				<component>
+					<id>choice_6oO8QRuHkqT</id>
+					<description lang="und">Rectangle 2 - 2</description>
+				</component>
+				<component>
+					<id>choice_6oWvCDX1JxU</id>
+					<description lang="und">Rectangle 6 - 3</description>
+				</component>
+				<component>
+					<id>choice_6Cxps3CnQzv</id>
+					<description lang="und">Rectangle 4 - 4</description>
+				</component>
+				<component>
+					<id>choice_5l882TZJ3hH</id>
+					<description lang="und">Rectangle 7 - 5</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6bui5CRXvZY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - العقيدة</name>
+			<description lang="und">الدرس الرابع - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6UVCTctTahd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - القرآن</name>
+			<description lang="und">الدرس الرابع - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5o0acK0iOLp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الحديث الشريف</name>
+			<description lang="und">الدرس الرابع - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6KkVX8www9b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6KkVX8www9b/6MtmfS0OPY6" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6JlPwBMiH9h[.]choice_5fyWlJgb0eS</correctResponsePattern>
+				<correctResponsePattern>statement_5c8FvSPh5l7[.]choice_5rf6nVJLy0T</correctResponsePattern>
+				<correctResponsePattern>statement_5j94UsZzGu0[.]choice_67UFM14ERk7</correctResponsePattern>
+				<correctResponsePattern>statement_5mzsHm7204F[.]choice_6ilPywvxkBt</correctResponsePattern>
+				<correctResponsePattern>statement_6SB9kohK1UK[.]choice_6ncTPqethDa</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6JlPwBMiH9h</id>
+					<description lang="und">Rectangle 11</description>
+				</component>
+				<component>
+					<id>statement_5c8FvSPh5l7</id>
+					<description lang="und">Rectangle 12</description>
+				</component>
+				<component>
+					<id>statement_5j94UsZzGu0</id>
+					<description lang="und">Rectangle 9</description>
+				</component>
+				<component>
+					<id>statement_5mzsHm7204F</id>
+					<description lang="und">Rectangle 10</description>
+				</component>
+				<component>
+					<id>statement_6SB9kohK1UK</id>
+					<description lang="und">Rectangle 8</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5fyWlJgb0eS</id>
+					<description lang="und">Rectangle 1 - 1</description>
+				</component>
+				<component>
+					<id>choice_5rf6nVJLy0T</id>
+					<description lang="und">Rectangle 2 - 2</description>
+				</component>
+				<component>
+					<id>choice_67UFM14ERk7</id>
+					<description lang="und">Rectangle 6 - 3</description>
+				</component>
+				<component>
+					<id>choice_6ilPywvxkBt</id>
+					<description lang="und">Rectangle 4 - 4</description>
+				</component>
+				<component>
+					<id>choice_6ncTPqethDa</id>
+					<description lang="und">Rectangle 7 - 5</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6SXwii0FYtu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6SXwii0FYtu/6YYAeMLqlxN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5pECc4qV2Qx[.]choice_60pZZfC45wT</correctResponsePattern>
+				<correctResponsePattern>statement_5eCySmas5op[.]choice_6PE0jNQRrBp</correctResponsePattern>
+				<correctResponsePattern>statement_62UnjSFCWEj[.]choice_5b8g7u5qVsn</correctResponsePattern>
+				<correctResponsePattern>statement_5VTZMBuIuqT[.]choice_5uszqgnJSes</correctResponsePattern>
+				<correctResponsePattern>statement_6g1ofIQaMhD[.]choice_61Y6XUilXFi</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5pECc4qV2Qx</id>
+					<description lang="und">Rectangle 5</description>
+				</component>
+				<component>
+					<id>statement_5eCySmas5op</id>
+					<description lang="und">Rectangle 4</description>
+				</component>
+				<component>
+					<id>statement_62UnjSFCWEj</id>
+					<description lang="und">Rectangle 6</description>
+				</component>
+				<component>
+					<id>statement_5VTZMBuIuqT</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_6g1ofIQaMhD</id>
+					<description lang="und">Rectangle 7</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_60pZZfC45wT</id>
+					<description lang="und">Group 1</description>
+				</component>
+				<component>
+					<id>choice_6PE0jNQRrBp</id>
+					<description lang="und">Group 3</description>
+				</component>
+				<component>
+					<id>choice_5b8g7u5qVsn</id>
+					<description lang="und">Group 5</description>
+				</component>
+				<component>
+					<id>choice_5uszqgnJSes</id>
+					<description lang="und">Group 2</description>
+				</component>
+				<component>
+					<id>choice_61Y6XUilXFi</id>
+					<description lang="und">Group 6</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5zQO7X9uQ2B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - العقيدة</name>
+			<description lang="und">الدرس الأول - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6IWAxcDIwE7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - القرآن</name>
+			<description lang="und">الدرس الأول - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6oyWZtc867u" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الحديث الشريف</name>
+			<description lang="und">الدرس الأول - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/69FZ6twc8d0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/69FZ6twc8d0/5arDVWUSRE4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6S9X9XS2wfR</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6S9X9XS2wfR</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_65YrO34gyRB</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5fDExYpV9SF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5fDExYpV9SF/6GxuCCvOjjK" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5nQaNluLw8l</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5nQaNluLw8l</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_6OHZYJ0w6o5</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6c0YBoE9jIH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - العقيدة</name>
+			<description lang="und">الدرس الثاني - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6RBpcL5MPR4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - القرآن</name>
+			<description lang="und">الدرس الثاني - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5hoWlKJmjuf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الحديث الشريف</name>
+			<description lang="und">الدرس الثاني - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6Mkg0p3fXhB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - نشاط التلوين</name>
+			<description lang="und">الدرس الثاني - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5tQrtxFilq2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5tQrtxFilq2/6BPcSyuFOuY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5YmdUi5EN8E[.]choice_6GN3BWlHNYg</correctResponsePattern>
+				<correctResponsePattern>statement_6U8fHOFQWc6[.]choice_5ipZIMuaIJx</correctResponsePattern>
+				<correctResponsePattern>statement_6Zqz2WGLVmV[.]choice_5WicWFNfJxS</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5YmdUi5EN8E</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+				<component>
+					<id>statement_6U8fHOFQWc6</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6Zqz2WGLVmV</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6GN3BWlHNYg</id>
+					<description lang="und">water - u3l2ac9.png</description>
+				</component>
+				<component>
+					<id>choice_5ipZIMuaIJx</id>
+					<description lang="und">sky - u3l2ac10.png</description>
+				</component>
+				<component>
+					<id>choice_5WicWFNfJxS</id>
+					<description lang="und">earth - u3l2ac7.png</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5cRpLGGs7nM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - العقيدة</name>
+			<description lang="und">الدرس الثالث - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6n9wSZPu10i" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - القرآن</name>
+			<description lang="und">الدرس الثالث - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6aKvVxu1Nyd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الحديث الشريف</name>
+			<description lang="und">الدرس الثالث - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5hw4IWDWec2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - نشاط التلوين</name>
+			<description lang="und">الدرس الثالث - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5tdbJkSjLwo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5tdbJkSjLwo/6lZaGya6ucY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5cPGjqFA0JE[.]choice_67TX3XZYwkO</correctResponsePattern>
+				<correctResponsePattern>statement_6PGOw588Z9G[.]choice_6OegHG9ZWne</correctResponsePattern>
+				<correctResponsePattern>statement_5w47Y3IAFBp[.]choice_5buyyzm4S8X</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5cPGjqFA0JE</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6PGOw588Z9G</id>
+					<description lang="und">Rectangle 7</description>
+				</component>
+				<component>
+					<id>statement_5w47Y3IAFBp</id>
+					<description lang="und">Rectangle 8</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_67TX3XZYwkO</id>
+					<description lang="und">Picture 1 - Image 2.png</description>
+				</component>
+				<component>
+					<id>choice_6OegHG9ZWne</id>
+					<description lang="und">Picture 5 - Image 3.png</description>
+				</component>
+				<component>
+					<id>choice_5buyyzm4S8X</id>
+					<description lang="und">Picture 6 - Image 3.png</description>
+				</component>
+				<component>
+					<id>choice_5YZevkFqU0o</id>
+					<description lang="und">Picture 4 - Image 3.png</description>
+				</component>
+				<component>
+					<id>choice_6gGRTZMWXPf</id>
+					<description lang="und">Picture 2 - Image 2.png</description>
+				</component>
+				<component>
+					<id>choice_65gMzdVl1Ig</id>
+					<description lang="und">Picture 3 - Image 2.png</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6j3WVibG71r" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - العقيدة</name>
+			<description lang="und">الدرس الرابع - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6L3xLr4Waci" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - القرآن</name>
+			<description lang="und">الدرس الرابع - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6qKKZnSNx07" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الحديث الشريف</name>
+			<description lang="und">الدرس الرابع - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6hBxYjca0gg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6hBxYjca0gg/6PpdDDhOF8r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6DHIMAp1kQG[.]choice_5omLrnbIJNW</correctResponsePattern>
+				<correctResponsePattern>statement_5vdF5hogQzp[.]choice_6iLWTX6Rjdi</correctResponsePattern>
+				<correctResponsePattern>statement_5tOInn3lNIA[.]choice_5nfJXtL7uAy</correctResponsePattern>
+				<correctResponsePattern>statement_6UY2Y1DwVlO[.]choice_68rFvHhawXE</correctResponsePattern>
+				<correctResponsePattern>statement_65C122XIoNu[.]choice_6jgxSEQfmXL</correctResponsePattern>
+				<correctResponsePattern>statement_5YazfoiXbzy[.]choice_5mCFaI2ejqi</correctResponsePattern>
+				<correctResponsePattern>statement_62y7TE2Nypo[.]choice_61VspQWMDfi</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6DHIMAp1kQG</id>
+					<description lang="und">Rectangle 8</description>
+				</component>
+				<component>
+					<id>statement_5vdF5hogQzp</id>
+					<description lang="und">Rectangle 10</description>
+				</component>
+				<component>
+					<id>statement_5tOInn3lNIA</id>
+					<description lang="und">Rectangle 16</description>
+				</component>
+				<component>
+					<id>statement_6UY2Y1DwVlO</id>
+					<description lang="und">Rectangle 9</description>
+				</component>
+				<component>
+					<id>statement_65C122XIoNu</id>
+					<description lang="und">Rectangle 15</description>
+				</component>
+				<component>
+					<id>statement_5YazfoiXbzy</id>
+					<description lang="und">Rectangle 11</description>
+				</component>
+				<component>
+					<id>statement_62y7TE2Nypo</id>
+					<description lang="und">Rectangle 12</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5omLrnbIJNW</id>
+					<description lang="und">Rectangle 1 - 1</description>
+				</component>
+				<component>
+					<id>choice_6iLWTX6Rjdi</id>
+					<description lang="und">Rectangle 2 - 2</description>
+				</component>
+				<component>
+					<id>choice_5nfJXtL7uAy</id>
+					<description lang="und">Rectangle 6 - 3</description>
+				</component>
+				<component>
+					<id>choice_68rFvHhawXE</id>
+					<description lang="und">Rectangle 4 - 4</description>
+				</component>
+				<component>
+					<id>choice_6jgxSEQfmXL</id>
+					<description lang="und">Rectangle 7 - 5</description>
+				</component>
+				<component>
+					<id>choice_5mCFaI2ejqi</id>
+					<description lang="und">Rectangle 13 - 6</description>
+				</component>
+				<component>
+					<id>choice_61VspQWMDfi</id>
+					<description lang="und">Rectangle 14 - 7</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5bW9PzGCpd3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - العقيدة</name>
+			<description lang="und">الدرس الأول - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6EqgiouuL1M" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - القرآن</name>
+			<description lang="und">الدرس الأول - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6GTTpFBNGmB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الحديث الشريف</name>
+			<description lang="und">الدرس الأول - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5k5nKpnbKTW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - نشاط التلوين</name>
+			<description lang="und">الدرس الأول - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6lpumN8xq3i" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الأول - الأنشطة</name>
+			<description lang="und">الدرس الأول - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6lpumN8xq3i/60ekT2QWVWD" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6MQwyIK94iY[.]choice_5Y7v2f8K20N</correctResponsePattern>
+				<correctResponsePattern>statement_60V90B5fwIS[.]choice_6YkPkt3aGx1</correctResponsePattern>
+				<correctResponsePattern>statement_5oMotqm4Ma4[.]choice_6DNuU6b6Z5p</correctResponsePattern>
+				<correctResponsePattern>statement_5oWbDu9KC1u[.]choice_67N3NQ2qwmP</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6MQwyIK94iY</id>
+					<description lang="und">Rectangle 14</description>
+				</component>
+				<component>
+					<id>statement_60V90B5fwIS</id>
+					<description lang="und">Rectangle 12</description>
+				</component>
+				<component>
+					<id>statement_5oMotqm4Ma4</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_5oWbDu9KC1u</id>
+					<description lang="und">Rectangle 13</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5Y7v2f8K20N</id>
+					<description lang="und">Rectangle 8 - ولـــد</description>
+				</component>
+				<component>
+					<id>choice_6YkPkt3aGx1</id>
+					<description lang="und">Rectangle 11 - لـــــه</description>
+				</component>
+				<component>
+					<id>choice_6DNuU6b6Z5p</id>
+					<description lang="und">Rectangle 10 - أحــــــد</description>
+				</component>
+				<component>
+					<id>choice_67N3NQ2qwmP</id>
+					<description lang="und">Rectangle 9 - وحـــده</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6QcNCXUhcsW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - العقيدة</name>
+			<description lang="und">الدرس الثاني - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6XIxXF4I59r" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - القرآن</name>
+			<description lang="und">الدرس الثاني - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5yJj7S2SY1P" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الحديث الشريف</name>
+			<description lang="und">الدرس الثاني - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6L3ajkH1LVs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6L3ajkH1LVs/6BGK0GFBk3r" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6jjgRatH7km[.]choice_6dFtn9YhyUZ</correctResponsePattern>
+				<correctResponsePattern>statement_6C6ZiFWeAuj[.]choice_5h8rwUoYpZE</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6jjgRatH7km</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+				<component>
+					<id>statement_6C6ZiFWeAuj</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6dFtn9YhyUZ</id>
+					<description lang="und">water - l2_6.png</description>
+				</component>
+				<component>
+					<id>choice_5h8rwUoYpZE</id>
+					<description lang="und">sky - l2.png</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5zGQ9lY8S4f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5zGQ9lY8S4f/6mWoUDddLhy" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6NrZQfyJM33</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6NrZQfyJM33</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_6LuFdI5Rxf4</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5vZdyEJyUrs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثاني - الأنشطة</name>
+			<description lang="und">الدرس الثاني - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5vZdyEJyUrs/5tmhKdbpXQg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5nmP67nqhwh</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5nmP67nqhwh</id>
+					<description lang="und">Picture 1</description>
+				</component>
+				<component>
+					<id>choice_5WR0coyk2a2</id>
+					<description lang="und">Picture 2</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5ufFPWanUKY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - العقيدة</name>
+			<description lang="und">الدرس الثالث - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5sxVtyLkahI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - القرآن</name>
+			<description lang="und">الدرس الثالث - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6NwGYsF38FB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الحديث الشريف</name>
+			<description lang="und">الدرس الثالث - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6a3EtbIxYws" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6a3EtbIxYws/5fXhRzA3XqW" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6il2iT0ywqh</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6pmyxJWjWpK</id>
+					<description lang="und">ميكائيل</description>
+				</component>
+				<component>
+					<id>choice_6gg6XGkZ8SS</id>
+					<description lang="und">ملك الجبال</description>
+				</component>
+				<component>
+					<id>choice_6il2iT0ywqh</id>
+					<description lang="und">جبريل</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6GlmhsdDuJq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6GlmhsdDuJq/6ZL3lE1Oyel" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6Ehz0cFqDBF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qWVyZdI2QC</id>
+					<description lang="und">٣٠ عامًا</description>
+				</component>
+				<component>
+					<id>choice_6W3N8h100C3</id>
+					<description lang="und">٣٥ عامًا</description>
+				</component>
+				<component>
+					<id>choice_6Ehz0cFqDBF</id>
+					<description lang="und">٤٠ عامًا</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5luaggQgjx8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5luaggQgjx8/6NfsKqtXLPg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5kC1Xg7hAvL</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_60DWnK7V1yv</id>
+					<description lang="und">فاطمة</description>
+				</component>
+				<component>
+					<id>choice_6A6ysfplLYs</id>
+					<description lang="und">عائشة</description>
+				</component>
+				<component>
+					<id>choice_5kC1Xg7hAvL</id>
+					<description lang="und">خديجة</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5avLjVYg1WI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الثالث - الأنشطة</name>
+			<description lang="und">الدرس الثالث - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5avLjVYg1WI/6Fo84ZiNpq1" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5k4Y0aJ13vp</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6TX13eDbTMh</id>
+					<description lang="und">اكتب</description>
+				</component>
+				<component>
+					<id>choice_6Y0XLXAfotB</id>
+					<description lang="und">تعلم</description>
+				</component>
+				<component>
+					<id>choice_5k4Y0aJ13vp</id>
+					<description lang="und">اقرأ</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6SLDqurzWxm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - العقيدة</name>
+			<description lang="und">الدرس الرابع - العقيدة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6ldPlgCfQqc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - القرآن</name>
+			<description lang="und">الدرس الرابع - القرآن</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5iRsj6CJFst" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الحديث الشريف</name>
+			<description lang="und">الدرس الرابع - الحديث الشريف</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/6JCzJB8mhlp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - نشاط التلوين</name>
+			<description lang="und">الدرس الرابع - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5V1trDjG3YP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - نشاط التلوين</name>
+			<description lang="und">الدرس الرابع - نشاط التلوين</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5XOrjtC8rSN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">الدرس الرابع - الأنشطة</name>
+			<description lang="und">الدرس الرابع - الأنشطة</description>
+		</activity>
+		<activity id="urn:articulate:storyline:5Y1T2b2EboT/5XOrjtC8rSN/6ThmM3o2HjN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_5aW417K6LDc[.]choice_5bnhEc8F6oo</correctResponsePattern>
+				<correctResponsePattern>statement_6muHIqMNDFH[.]choice_6d95Qe06pTY</correctResponsePattern>
+				<correctResponsePattern>statement_5qPxxfVZJM3[.]choice_6D5MBGhyntC</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_5aW417K6LDc</id>
+					<description lang="und">Rectangle 2</description>
+				</component>
+				<component>
+					<id>statement_6muHIqMNDFH</id>
+					<description lang="und">Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_5qPxxfVZJM3</id>
+					<description lang="und">Rectangle 3</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_5bnhEc8F6oo</id>
+					<description lang="und">water - l4_1.png</description>
+				</component>
+				<component>
+					<id>choice_6d95Qe06pTY</id>
+					<description lang="und">sky - l4_3.png</description>
+				</component>
+				<component>
+					<id>choice_6D5MBGhyntC</id>
+					<description lang="und">earth - l4_5.png</description>
+				</component>
+			</target>
+		</activity>
+	</activities>
+</tincan>
